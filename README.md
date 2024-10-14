@@ -1,4 +1,4 @@
-# OV Version Systeming
+# OV Versioning
 versioning system with a project state and integer value
 
 ## Format
